@@ -1,0 +1,11 @@
+com\phantom\agent\PhantomAgent.class
+com\phantom\agent\trace\OverrideCallable.class
+com\phantom\agent\trace\TransformerV1.class
+com\phantom\agent\trace\Listener.class
+com\phantom\agent\enhancer\impl\TomcatEnhancer$1.class
+com\phantom\agent\enhancer\impl\TomcatEnhancer.class
+com\phantom\agent\trace\TransformerV3.class
+com\phantom\agent\trace\LoggingSpanExporter.class
+com\phantom\agent\enhancer\AbstractEnhancer.class
+com\phantom\agent\trace\TransformerV2.class
+com\phantom\agent\enhancer\EnhancerProxy.class
