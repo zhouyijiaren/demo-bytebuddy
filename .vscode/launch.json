@@ -10,9 +10,9 @@
             "request": "launch",
             "mainClass": "${file}",
             "vmArgs": [
-                "-javaagent:c:\\Users\\DZ\\Downloads\\simple-demo-master\\simple-demo-master\\demo-bytebuddy\\phantom-agent\\target\\phantom-agent.jar",
+                "-javaagent:c:/Users/DZ/Downloads/simple-demo-master/simple-demo-master/demo-bytebuddy/phantom-agent/target/phantom-agent.jar",
                 "-Dagent.transformer.version=v3",
-                "-Dagent.plugin.path=c:\\Users\\DZ\\Downloads\\simple-demo-master\\simple-demo-master\\demo-bytebuddy\\phantom-agent-plugin\\target\\phantom-agent-plugin.jar",
+                "-Dagent.plugin.path=c:/Users/DZ/Downloads/simple-demo-master/simple-demo-master/demo-bytebuddy/phantom-agent-plugin/target/phantom-agent-plugin.jar",
             ]
         },
         {
@@ -22,9 +22,9 @@
             "mainClass": "com.phantom.demo.Application",
             "projectName": "phantom-demo",
             "vmArgs": [
-                "-javaagent:c:\\Users\\DZ\\Downloads\\simple-demo-master\\simple-demo-master\\demo-bytebuddy\\phantom-agent\\target\\phantom-agent.jar",
+                "-javaagent:demo-bytebuddy/phantom-agent/target/phantom-agent.jar",
                 "-Dagent.transformer.version=v3",
-                "-Dagent.plugin.path=c:\\Users\\DZ\\Downloads\\simple-demo-master\\simple-demo-master\\demo-bytebuddy\\phantom-agent-plugin\\target\\phantom-agent-plugin.jar",
+                "-Dagent.plugin.path=demo-bytebuddy/phantom-agent-plugin/target/phantom-agent-plugin.jar",
             ]
         }
     ]
